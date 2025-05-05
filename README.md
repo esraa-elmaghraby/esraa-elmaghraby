@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @esraa-elmaghraby
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on real world projects
+- 📫 reach me at esraamaghrabi14@gmail
