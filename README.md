@@ -1,7 +1,6 @@
-<div align="center">
-
-## 🌟Hello🌟
+# 🌟Hello, I am Esraa🌟
 ### Data Science & ML Engineer
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Data+Science+Lover;%F0%9F%A4%96+Machine+Learning+Explorer;%F0%9F%92%A1+Problem+Solver;%F0%9F%8C%9F+Always+Learning" alt="Typing SVG" />
 
