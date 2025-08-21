@@ -1,4 +1,4 @@
-## Hello there, I am esraa👋🏻 Thanks for dropping by💗
+## Hello there, I am esraa. Thanks for dropping by💗
 
 <div align="center">
 
@@ -28,6 +28,3 @@ class EsraaElMaghraby:
 me = EsraaElMaghraby()
 me.say_hi()
 
----
-
-</div>
