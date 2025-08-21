@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🌟 Hi, I’m @esraa-elmaghraby 🌟
-### Data Science Enthusiast & ML Explorer
+## 🌟Hello🌟
+### Data Science & ML Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Data+Science+Lover;%F0%9F%A4%96+Machine+Learning+Explorer;%F0%9F%92%A1+Problem+Solver;%F0%9F%8C%9F+Always+Learning" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
 </div>
 
